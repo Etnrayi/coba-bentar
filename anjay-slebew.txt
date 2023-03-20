@@ -1,0 +1,3 @@
+ Pada versi ini, hanya pengguna yang mendapat undangan yang bisa menggunakan
+ layanan Github. Sementara itu, pada pertengahan Februari 2008,
+ PJ Hyett bergabung ke dalam tim pengembangan. Github resmi diluncurkan ke publik pada 10 April 2008.
