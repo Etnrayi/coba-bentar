@@ -1,0 +1,6 @@
+ Pada versi ini, hanya pengguna yang mendapat undangan yang bisa menggunakan
+ layanan Github. Sementara itu, pada pertengahan Februari 2008,
+ PJ Hyett bergabung ke dalam tim pengembangan. Github resmi diluncurkan ke publik pada 10 April 2008.
+ Pada tanggal 24 Februari 2009, anggota tim GitHub mengumumkan, dalam sebuah pembicaraan di markas besar Yahoo!, 
+ bahwa saat tahun pertama online, GitHub telah mengumpulkan lebih dari 46.000 repositori publik, 17.000 diantaranya 
+ dibuat pada bulan sebelumnya. Saat itu, sekitar 6.200 repositori telah bercabang dan 4600 telah digabung.
